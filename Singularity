@@ -1,3 +1,3 @@
 Bootstrap: docker
-From: jaborst/bilm_realplus10m
+From: jaborst/bare_env
 
